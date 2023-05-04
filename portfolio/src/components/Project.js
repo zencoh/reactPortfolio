@@ -8,6 +8,8 @@ function Project() {
         {data.map((Proj) => (
           <div key={Proj.name}>
             <h1>{Proj.name}</h1>
+            <img src={Proj.icon} alt={Proj.caption} />
+            <a href={Proj.link}>{Proj.name}</a>
             <p>{Proj.bio}</p>
           </div>
         ))}

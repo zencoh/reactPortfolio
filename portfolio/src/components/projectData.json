@@ -1,10 +1,44 @@
 [
   {
-    "name": "Project 1",
-    "bio": "asdkjhasdkjhsadkjhasd"
+    "name": "Social Network API",
+    "bio": "Using express and MongoDB, this application is an API for a social media network that uses a NoSQL database. It was designed so that it can handle large amounts of unstructured data",
+    "icon": "img/nosql-logo.png",
+    "caption": "Social Network API",
+    "link": "'https://github.com/zencoh/socialnetworknosql'"
   },
   {
-    "name": "Project 2",
-    "bio": ";ohfgkpokpfgojkpfghok"
+    "name": "Group Project 1",
+    "bio": "This application uses three different API's to easily search dog and cat breeds, and shows an image and a short bio about the breed when clicked",
+    "icon": "img/dog&catscreenshot.png",
+    "caption": "Dog and Cat Search Engine",
+    "link": ""
+  },
+  {
+    "name": "",
+    "bio": "",
+    "icon": "",
+    "caption": "",
+    "link": ""
+  },
+  {
+    "name": "",
+    "bio": "",
+    "icon": "",
+    "caption": "",
+    "link": ""
+  },
+  {
+    "name": "",
+    "bio": "",
+    "icon": "",
+    "caption": "",
+    "link": ""
+  },
+  {
+    "name": "",
+    "bio": "",
+    "icon": "",
+    "caption": "",
+    "link": ""
   }
 ]
