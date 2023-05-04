@@ -25,12 +25,18 @@ function App() {
 
   return (
     <div className="portfolio-app">
-      <Header />
-      <Navigation
+      <header>
+       <Header /> 
+      </header>
+      
+      <nav>
+        <Navigation
         pages={pages}
         setCurrentPage={setCurrentPage}
         currentPage={currentPage}
       ></Navigation>
+      </nav>
+      
       <main>
         <CurrentPage currentPage={currentPage} />
       </main>
