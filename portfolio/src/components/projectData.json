@@ -14,31 +14,31 @@
     "link": "https://github.com/zencoh/soCrazyGroupProject"
   },
   {
-    "name": "",
-    "bio": "",
-    "icon": "",
-    "caption": "",
+    "name": "Note Taker",
+    "bio": "This project uses an Express back end by saving and retrieving note data from a JSON file.",
+    "icon": "img/notetakerscreenshot.png",
+    "caption": "Note Taker",
     "link": "https://github.com/zencoh/rapidNoteTaker"
   },
   {
-    "name": "",
-    "bio": "",
-    "icon": "",
-    "caption": "",
+    "name": "Weather Dashboard",
+    "bio": "This project retreives data from another applications API and is used to create a weather dashboard that runs in the browser and features a dynamically updating HTML.",
+    "icon": "img/weather_dashboard.png",
+    "caption": "Weather Dashboard",
     "link": "https://github.com/zencoh/inYourNeckofTheWoods"
   },
   {
     "name": "Group Project 2",
-    "bio": "",
-    "icon": "",
-    "caption": "",
+    "bio": "This is a full stack application utilizing a responsive front end and an express.js back end. RadLibs allows a user to sign up, log in, and create silly stories called RadLibs.",
+    "icon": "img/rad-libs.png",
+    "caption": "Rad-libs",
     "link": "https://github.com/SChafinIII/Rad-Libs"
   },
   {
     "name": "Tech Blog",
-    "bio": "",
-    "icon": "",
-    "caption": "",
+    "bio": "This application is similar to a Wordpress site where developers can publish their blog posts and comment on other developer's posts as well.",
+    "icon": "img/techblog.png",
+    "caption": "Tech Blog",
     "link": "https://github.com/zencoh/tehcieblog"
   }
 ]

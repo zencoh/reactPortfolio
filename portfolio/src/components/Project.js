@@ -3,7 +3,6 @@ import data from "./projectData.json";
 function Project() {
   return (
     <section className="project">
-      <h1>My Projects</h1>
       <div>
         {data.map((Proj) => (
           <div key={Proj.name}>
