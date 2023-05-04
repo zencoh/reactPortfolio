@@ -4,7 +4,7 @@
     "bio": "Using express and MongoDB, this application is an API for a social media network that uses a NoSQL database. It was designed so that it can handle large amounts of unstructured data",
     "icon": "img/nosql-logo.png",
     "caption": "Social Network API",
-    "link": "'https://github.com/zencoh/socialnetworknosql'"
+    "link": "https://github.com/zencoh/socialnetworknosql"
   },
   {
     "name": "Group Project 1",
