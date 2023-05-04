@@ -25,7 +25,7 @@
     text-align: center;
   }
 
-  ul {
+  .ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -33,14 +33,14 @@
     background-color: #333;
   }
   
-  li {
+  .li {
     display: inline-block;
     color: white;
     padding: 14px 16px;
     text-decoration: none;
   }
 
-  li :hover {
+  .li :hover {
     color: #f19953;
   }
   
@@ -65,7 +65,30 @@
     /* height: ; */
   }
   
- .about-p {
+  .about-p {
     flex: 3;
     padding: 30px;
- }
+  }
+
+  .Proj-bio {
+    flex:3;
+    padding: 30px;
+  }
+  
+  form {
+    text-align: center;
+  }
+
+  .div {
+    text-align: center;
+  }
+  
+  ul{
+    list-style-type: none;
+  }
+
+  footer {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 30px
+  }
