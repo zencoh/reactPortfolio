@@ -2,6 +2,7 @@ function Resume() {
   return (
     <section className="resume">
       {/* download link for my resume */}
+      <a className="resumeLink" href="/../resume/resumeColeHartkopp" download="Cole Hartkopp Resume">Download Resume</a>
       <div className="div">
       <h2>Front End Proficencies</h2>
       <ul>

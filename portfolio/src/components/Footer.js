@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <p>Cole Hartkopp @ 2022. All rights reserved</p>
+      <p>Cole Hartkopp @ 2023. All rights reserved</p>
     </footer>
   );
 }
