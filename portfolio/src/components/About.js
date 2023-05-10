@@ -6,7 +6,7 @@ function About() {
       <aside>
         <img src={logo} alt="Cole Hartkopp"/>
       </aside>
-      <p className="about-p">Hi, I am Cole Hartkopp. I'm 21 years old and a Kansas City native. I was diagnosed with Acute Myloid Leukemia fall of 2020 and I still went to my first two years of college while going through chemotherapies. Spring 2022 I was forced to put my health first and I spent 3 months in the ICU at the Kansas University Medical Center. I decided I wanted to do something different because after such a long time not working on school, I decided to start coding and it has been so much more interesting and engaging than my mechanical engineering courses. I am intending to go into the work force as soon as I can. I am very passionate about my work and want to make other peoples time spent on the internet more enjoyable. Despite fighting cancer I believe that I would be a great future employee because I have faced such diversity and learned to overcome all challenges thrown at me.</p>
+      <p className="about-p">Cole Hartkopp is an enthusiastic and detail-oriented recent bootcamp gradutate with a strong desire to learn and grow in the technology industry. Possessing excellent communication, problem-solving, and time management skills, as well as proficiency in multiple full-stack languages. Hoping to break into the tech industry as a junior developer, Cole is a dedicated team player who is adaptable, dependable, and committed to delivering high-quality work. Please navigate to the projects to view recent works, download my resume and contact me if you have any questions.</p>
     </section>
   );
 }

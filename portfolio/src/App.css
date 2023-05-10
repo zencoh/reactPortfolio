@@ -1,101 +1,143 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-      'Lucida Sans', Arial, sans-serif;
-  }
-  
-  body {
-    background-color: #2d3938;
-  }
-  
-  .portfolio-app {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    width: 1500px;
-    min-height: 800px;
-    background: #516764;
-    margin: 32px auto;
-    border-radius: 20px;
-  }
-  
-  header {
-    text-align: center;
-  }
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
 
-  .ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-  }
-  
-  .li {
-    display: inline-block;
-    color: white;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
+body {
+  background-color: #2d3938;
+}
 
-  .li :hover {
-    color: #f19953;
-  }
-  
-  h1 {
-    margin: 32px 0;
-    color: #001011;
-    font-size: 32px;
-    padding-left: 30px;
-  }
+.portfolio-app {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 1500px;
+  min-height: 800px;
+  background: #516764;
+  margin: 32px auto;
+  border-radius: 20px;
+}
 
-  .about {
-    display: flex;
-  }
+header {
+  text-align: center;
+}
 
-  aside {
-    flex: 1;
-  }
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
 
-  img {
-    width: 400px;
-    padding-left: 20px
-    /* height: ; */
-  }
-  
-  .about-p {
-    flex: 3;
-    padding: 30px;
-  }
+.li {
+  display: inline-block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
-  .Proj-bio {
-    flex:3;
-    padding: 30px;
-  }
-  
-  form {
-    text-align: center;
-  }
+.li :hover {
+  color: #f19953;
+}
 
-  .resume{
-    text-align: center;
-  }
-  .resumeLink {
-    font-size: 24px;
-  }
+h1 {
+  margin: 32px 0;
+  color: #001011;
+  font-size: 32px;
+  padding-left: 30px;
+}
 
-  .div {
-    text-align: center;
-  }
-  
-  ul{
-    list-style-type: none;
-  }
+.about {
+  display: flex;
+}
 
-  footer {
-    text-align: center;
-    padding-top: 100px;
-    padding-bottom: 30px
-  }
+.project {
+  display: flex;
+}
+
+.Project-aside{
+  flex: 1;
+}
+
+aside a {
+  margin: 20px;
+  color: #f19953; 
+}
+
+img {
+  width: 400px;
+  margin: 20px;
+  padding-left: 20px;
+}
+
+.Proj-bio {
+  flex: 3;
+  margin: 30px;
+}
+
+.about-p {
+  flex: 3;
+  padding: 30px;
+}
+
+.contact {
+  justify-content: center;
+}
+
+form{
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  margin: 50px;
+}
+
+form input {
+  margin: 10px;
+  padding: 5px;
+}
+
+form textarea{
+  margin: 10px;
+  padding: 5px;
+  width: 600px;
+  height: 200px;
+}
+
+form .btn {
+  background-color: #f19953;
+  border: none;
+  color: #001011;
+  padding: 16px 32px;
+  margin: 4px 10px;
+  cursor: pointer;
+}
+
+.resume {
+  text-align: center;
+}
+.resumeLink {
+  font-size: 24px;
+  color: #f19953;
+}
+
+.div {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+footer {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+
+footer a img {
+  width: 75px;
+}
