@@ -14,7 +14,7 @@ This project is a portfolio of work samples to show my potential as a future emp
 ![](images/reactPortfolio.png)
 
 ## Usage
-My portfolio can be used by future employers to access my skills and previous work to evaluate myself for employed positions. Click here to visit my portfolio, Cole Hartkopp Portfolio.
+My portfolio can be used by future employers to access my skills and previous work to evaluate myself for employed positions. Click here to visit my portfolio, [Cole Hartkopp Portfolio](https://zencoh.github.io/reactPortfolio/).
 
 ## Contributing
 I am currently not taking contributions for the code of this project but if you are trying to reach out to me please visit the contact page on my portfolio.
