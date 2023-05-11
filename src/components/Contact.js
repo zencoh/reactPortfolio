@@ -63,7 +63,6 @@ function Contact() {
           Submit
         </button>
       </form>
-      <h2 className="verify"></h2>
     </section>
   );
 }
