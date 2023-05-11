@@ -11,7 +11,7 @@
 This project is a portfolio of work samples to show my potential as a future employee. It includes sections about me, some of my recent projects, a downloadable resume, and a contact form that goes straight to my email.
 
 ## Portfolio
-<!-- img of home page and link to portfolio -->
+![](images/reactPortfolio.png)
 
 ## Usage
 My portfolio can be used by future employers to access my skills and previous work to evaluate myself for employed positions. Click here to visit my portfolio, Cole Hartkopp Portfolio.
