@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactPortfolio/static/css/main.88f2c1eb.css",
-    "main.js": "/reactPortfolio/static/js/main.58e712eb.js",
+    "main.js": "/reactPortfolio/static/js/main.26aef97a.js",
     "static/media/coleDress.png": "/reactPortfolio/static/media/coleDress.a43a2b29dc411bf40969.png",
     "static/media/resumeColeHartkopp.pdf": "/reactPortfolio/static/media/resumeColeHartkopp.d5c1d1b00f908ae57543.pdf",
     "index.html": "/reactPortfolio/index.html",
     "main.88f2c1eb.css.map": "/reactPortfolio/static/css/main.88f2c1eb.css.map",
-    "main.58e712eb.js.map": "/reactPortfolio/static/js/main.58e712eb.js.map"
+    "main.26aef97a.js.map": "/reactPortfolio/static/js/main.26aef97a.js.map"
   },
   "entrypoints": [
     "static/css/main.88f2c1eb.css",
-    "static/js/main.58e712eb.js"
+    "static/js/main.26aef97a.js"
   ]
 }
