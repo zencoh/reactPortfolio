@@ -1,4 +1,4 @@
-import resume from "../resume/resumeColeHartkopp.pdf";
+import resume from "../resume/ColeHartkoppTechnicalResume.pdf";
 
 function Resume() {
   return (
