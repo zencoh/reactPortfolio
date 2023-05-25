@@ -40,5 +40,12 @@
     "icon": "img/techblog.png",
     "caption": "Tech Blog",
     "link": "https://github.com/zencoh/tehcieblog"
+  },
+  {
+    "name": "Group Project 3",
+    "bio": "This application was created to help people in the community find and connect with one another playing simplified and laidback sports. By creating a place to host these sports leagues and players we hope to build a safe and fun environment for all users to promote physical and mental health.",
+    "icon": "img/ezLeaguesScreenshot.png",
+    "caption": "EZ Leagues",
+    "link": "https://github.com/kcavner/Ezleagues"
   }
 ]
