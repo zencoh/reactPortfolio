@@ -9,7 +9,8 @@ function Project() {
             <h1>{Proj.name}</h1>
             <aside className="Project-aside" >
               <img className="Proj-img" src={Proj.icon} alt={Proj.caption} />
-              <a href={Proj.link}>{Proj.name}</a>
+              <a href={Proj.link}>GitHub Repository</a>
+              <a href={Proj.deployed}>Deployed Application</a>
             </aside>
             <p className="Proj-bio" >{Proj.bio}</p>
           </div>

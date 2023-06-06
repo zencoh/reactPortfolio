@@ -4,48 +4,55 @@
     "bio": "Using express and MongoDB, this application is an API for a social media network that uses a NoSQL database. It was designed so that it can handle large amounts of unstructured data",
     "icon": "img/nosql-logo.png",
     "caption": "Social Network API",
-    "link": "https://github.com/zencoh/socialnetworknosql"
+    "link": "https://github.com/zencoh/socialnetworknosql",
+    "deployed": "null"
   },
   {
     "name": "Group Project 1",
     "bio": "This application uses three different API's to easily search dog and cat breeds, and shows an image and a short bio about the breed when clicked",
     "icon": "img/dog&catscreenshot.png",
     "caption": "Dog and Cat Search Engine",
-    "link": "https://github.com/zencoh/soCrazyGroupProject"
+    "link": "https://github.com/zencoh/soCrazyGroupProject",
+    "deployed": "https://zencoh.github.io/soCrazyGroupProject/"
   },
   {
     "name": "Note Taker",
     "bio": "This project uses an Express back end by saving and retrieving note data from a JSON file.",
     "icon": "img/notetakerscreenshot.png",
     "caption": "Note Taker",
-    "link": "https://github.com/zencoh/rapidNoteTaker"
+    "link": "https://github.com/zencoh/rapidNoteTaker",
+    "deployed": "https://rapidnotetaker.herokuapp.com/"
   },
   {
     "name": "Weather Dashboard",
     "bio": "This project retreives data from another applications API and is used to create a weather dashboard that runs in the browser and features a dynamically updating HTML.",
     "icon": "img/weather_dashboard.png",
     "caption": "Weather Dashboard",
-    "link": "https://github.com/zencoh/inYourNeckofTheWoods"
+    "link": "https://github.com/zencoh/inYourNeckofTheWoods",
+    "deployed": "https://zencoh.github.io/inYourNeckofTheWoods/"
   },
   {
     "name": "Group Project 2",
     "bio": "This is a full stack application utilizing a responsive front end and an express.js back end. RadLibs allows a user to sign up, log in, and create silly stories called RadLibs.",
     "icon": "img/rad-libs.png",
     "caption": "Rad-libsT",
-    "link": "https://github.com/SChafinIII/Rad-Libs"
+    "link": "https://github.com/SChafinIII/Rad-Libs",
+    "deployed": "https://rad-libs.herokuapp.com/"
   },
   {
     "name": "Tech Blog",
     "bio": "This application is similar to a Wordpress site where developers can publish their blog posts and comment on other developer's posts as well.",
     "icon": "img/techblog.png",
     "caption": "Tech Blog",
-    "link": "https://github.com/zencoh/tehcieblog"
+    "link": "https://github.com/zencoh/tehcieblog",
+    "deployed": "https://tehcieblog.herokuapp.com/"
   },
   {
     "name": "Group Project 3",
     "bio": "This application was created to help people in the community find and connect with one another playing simplified and laidback sports. By creating a place to host these sports leagues and players we hope to build a safe and fun environment for all users to promote physical and mental health.",
     "icon": "img/ezLeaguesScreenshot.png",
     "caption": "EZ Leagues",
-    "link": "https://github.com/kcavner/Ezleagues"
+    "link": "https://github.com/kcavner/Ezleagues",
+    "deployed": "https://ezleagues.herokuapp.com/"
   }
 ]
