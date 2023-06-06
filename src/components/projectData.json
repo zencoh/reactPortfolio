@@ -1,15 +1,15 @@
 [
   {
     "name": "Social Network API",
-    "bio": "Using express and MongoDB, this application is an API for a social media network that uses a NoSQL database. It was designed so that it can handle large amounts of unstructured data",
+    "bio": "Using express and MongoDB, this application is an API for a social media network that uses a NoSQL database. It was designed so that it can handle large amounts of unstructured data. Because this application is server side only the deployed application link will redirect to a walkthrough video of how this database works.",
     "icon": "img/nosql-logo.png",
     "caption": "Social Network API",
     "link": "https://github.com/zencoh/socialnetworknosql",
-    "deployed": "null"
+    "deployed": "https://drive.google.com/file/d/1xqvWiee7NyJVuSV1DQXgkGAsGCEqsJlC/view"
   },
   {
     "name": "Group Project 1",
-    "bio": "This application uses three different API's to easily search dog and cat breeds, and shows an image and a short bio about the breed when clicked",
+    "bio": "This application uses three different API's to easily search dog and cat breeds, and shows an image and a short bio about the breed when clicked.",
     "icon": "img/dog&catscreenshot.png",
     "caption": "Dog and Cat Search Engine",
     "link": "https://github.com/zencoh/soCrazyGroupProject",
