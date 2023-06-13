@@ -84,6 +84,11 @@ img {
   padding: 30px;
 }
 
+.about-c {
+  flex: 1;
+  padding: 30px;
+}
+
 .contact {
   justify-content: center;
 }
